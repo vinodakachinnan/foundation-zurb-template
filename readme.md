@@ -1,8 +1,8 @@
-![](src/assets/img/Logo.png?row=true)
+![http://ltdocs.info/](src/assets/img/Logo.png?row=true)
 
 # Living Traditions
 
-A web interface project for India Foundation for the Arts & Asia Art Archive Archival Fellowship. 2015-2016
+A web interface project for [India Foundation for the Arts](http://www.indiaifa.org/) & [Asia Art Archive](http://www.aaa.org.hk/) Archival Fellowship. 2015-2016
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
@@ -52,6 +52,66 @@ http://localhost:8000
 ```
 
 To create compressed, production-ready assets, run `npm run build`.
+
+## Files
+
+```txt
+├───assets
+│   ├───img
+│   │   │   .gitkeep
+│   │   │   Logo.png
+│   │   │   Logo.svg
+│   │   │
+│   │   ├───about
+│   │   ├───genre
+│   │   ├───interchange
+│   │   ├───jyoti-bhatt
+│   │   ├───landing
+│   │   ├───nav
+│   │   ├───place
+│   │   └───year
+│   ├───js
+│   │       app.js
+│   │
+│   └───scss
+│       │   app.scss
+│       │   _colorbox.scss
+│       │   _custom.scss
+│       │   _queries.scss
+│       │   _settings.scss
+│       │
+│       └───components
+│               .gitkeep
+│
+├───data
+│       .gitkeep
+│       about.json
+│       genre.json
+│       info.json
+│       nav.json
+│       year.json
+│
+├───layouts
+│       default.html
+│
+├───pages
+│       about.html
+│       genre.html
+│       index.html
+│       nav.html
+│       place.html
+│       year.html
+│
+├───partials
+│       .gitkeep
+│       about-partial.html
+│       info-partial.html
+│       jyoti-bhatt-partial.html
+│
+└───styleguide
+        index.md
+        template.html
+```
 
 ## Built with
 
