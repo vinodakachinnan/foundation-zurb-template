@@ -53,7 +53,15 @@ To create compressed, production-ready assets, run `npm run build`.
 
 ## Built with
 
-* [Foundation 6]
-* [velocity js]
-* [colorbox]
-* [countTo]
+* [Foundation 6](http://foundation.zurb.com/)
+* [Velocity js](http://velocityjs.org/)
+* [Colorbox](http://www.jacklmoore.com/colorbox/)
+* [CountTo](https://github.com/mhuggins/jquery-countTo)
+
+## Credits
+
+* Sneha Ragavan
+* Sabih Ahmed
+* Rashmimala
+
+Interface and the documentation is made by Vinod Velayudhan.
