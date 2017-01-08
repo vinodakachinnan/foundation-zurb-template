@@ -1,4 +1,4 @@
-(https://github.com/vinodakachinnan/living-traditions/src/assets/img/Logo.svg)
+![Living Traditions](https://raw.githubusercontent.com/vinodakachinnan/living-traditions/master/src/assets/img/Logo.svg)
 
 A web interface project for India Foundation for the Arts & Asia Art Archive Archival Fellowship. 2015-2016
 
