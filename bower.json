@@ -15,8 +15,10 @@
     "tests"
   ],
   "dependencies": {
-    "foundation-sites": "~6.3.0",
-    "motion-ui": "~1.2.2"
+    "foundation-sites": "~6.2.3",
+    "motion-ui": "~1.2.2",
+    "jquery-colorbox": "colorbox#^1.6.4",
+    "velocity": "^1.4.1"
   },
   "private": true
 }
