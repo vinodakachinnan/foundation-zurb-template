@@ -1,4 +1,4 @@
-# Living Traditions
+# Living Traditions![alt text](https://github.com/vinodakachinnan/living-traditions/src/assets/img/Logo.svg "Living Traditions")
 
 A web interface project for India Foundation for the Arts & Asia Art Archive Archival Fellowship. 2015-2016
 
@@ -60,8 +60,8 @@ To create compressed, production-ready assets, run `npm run build`.
 
 ## Credits
 
-* Sneha Ragavan
 * Sabih Ahmed
+* Sneha Ragavan
 * Rashmimala
 
-Interface and the documentation is made by Vinod Velayudhan.
+Interface and the documentation is made by [Vinod Velayudhan](vinodaschinnan@gmail.com).
