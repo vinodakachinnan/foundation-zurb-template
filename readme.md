@@ -1,5 +1,4 @@
-# Living Traditions
-<img src="src/assets/img/Logo.png?row=true">
+# Living Traditions ![](src/assets/img/Logo.png?row=true)
 
 A web interface project for India Foundation for the Arts & Asia Art Archive Archival Fellowship. 2015-2016
 
