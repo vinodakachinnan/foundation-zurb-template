@@ -6,7 +6,7 @@ A web interface project for [India Foundation for the Arts](http://www.indiaifa.
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
-### Detaild [DOCUMENTAION](http://ltdocs.info/) of the project.
+### Detaild [DOCUMENTAION](https://vinodakachinnan.github.io/lt-docs/) of the project.
 
 Interface is built on top of official ZURB Template for use with [Foundation for Sites](http://foundation.zurb.com/sites). It has a Gulp-powered build system with these features:
 
